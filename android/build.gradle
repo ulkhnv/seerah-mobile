@@ -6,9 +6,13 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.3.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
+}
+
+ext {
+    kotlinStdlibJdk7Version = '1.6.21'
+    kotlinStdlibJdk7Version1 = 'kotlinStdlibJdk7Version'
 }
 
 allprojects {

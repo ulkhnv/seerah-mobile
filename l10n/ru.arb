@@ -1,0 +1,36 @@
+{
+  "@@locale": "ru",
+
+  "home_page": "Главная",
+  "my_iman": "Мой иман",
+  "settings" : "Настройки",
+
+  "fajr" : "Фаджр",
+  "sunrise" : "Восход",
+  "zuhr" : "Зухр",
+  "asr" : "Аср",
+  "magrib" : "Магриб",
+  "isha" : "Иша",
+
+  "city" : "Город",
+  "language" : "Язык",
+  "about" : "О приложении",
+  "notification" : "Уведомление",
+
+  "tasbih" : "Тасбих",
+  "qibla" : "Кибла",
+
+  "current_language" : "Русский",
+
+  "country" : "Казахстан",
+
+  "aa" : "Приложение о сире Пророка с.a.c",
+
+  "monday" : "Понедельник",
+  "tuesday" : "Вторник",
+  "wednesday" : "Среда",
+  "thursday" : "Четверг",
+  "friday" : "Пятница",
+  "saturday" : "Суббота",
+  "sunday" : "Воскресенье"
+}
